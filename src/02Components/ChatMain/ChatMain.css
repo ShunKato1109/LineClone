@@ -1,0 +1,7 @@
+.WrpperMessageThread::-webkit-scrollbar{
+    display:none;
+  }
+
+  .ChatInputArea::-webkit-scrollbar{
+    display:none;
+  }
